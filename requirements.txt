@@ -1,0 +1,6 @@
+streamlit==1.39.0
+shap==0.46.0
+xgboost==2.1.1
+pandas==2.2.2
+matplotlib==3.9.2
+numpy==1.26.4
